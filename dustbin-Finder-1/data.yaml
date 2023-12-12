@@ -1,0 +1,12 @@
+names:
+  - dustbins
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: dustbin-finder
+  url: https://universe.roboflow.com/aniket-fpzba/dustbin-finder/dataset/1
+  version: 1
+  workspace: aniket-fpzba
+test: ../test/images
+train: ./train/images
+val: ./valid/images
